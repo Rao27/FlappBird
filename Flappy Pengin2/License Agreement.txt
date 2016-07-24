@@ -1,0 +1,19 @@
+Flappy Penguin License Agreement
+================================
+
+The following is the licensing agreement for all source code sold through Sentio Ltd. 
+By buying this source code you agree to all the terms and conditions below.
+
+* All Artwork, Music and Sounds must be changed.
+
+* You may only use the source code to publish games under your own personal or business developer account.
+
+* If you purchase a single license, you can only create one derivative (reskin) of this game. 
+
+* If at some point you decide to sell your app, portfolio or business then you must specify to the buyer that you do NOT own the source code and that they DO NOT have the right to produce new reskins of this code (unless they purchase a license themselves).
+
+* When you purchase an "Unlimited License" you can create as many reskins with that source code under your own developer account as you wish. However, you may not transfer or share that license with another party unless you have written approval from us.
+
+* With any license purchase you do NOT own the source code. We are licensing it to you for reskin purposes only. We remain the owner of the source code and you may NOT resell or license the code to others.
+
+* You may NOT purchase this source code for the sole purpose of reskinning and reselling apps to others.
